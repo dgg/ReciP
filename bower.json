@@ -1,0 +1,22 @@
+{
+  "name": "ReciP",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dgg/ReciP",
+  "authors": [
+    "Daniel Gonzalez Garcia <danielgonnet@gmail.com>"
+  ],
+  "description": "MD responsive website that allows managing cooking recipes",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
