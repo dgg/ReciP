@@ -18,6 +18,10 @@
   "homepage": "https://github.com/dgg/ReciP",
   "devDependencies": {
     "bower": "^1.5.3",
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "hapi": "^10.1.0"
   }
 }
